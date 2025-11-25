@@ -1,0 +1,25 @@
+# Entornos virtuales
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# Config
+.env
+.env.*
+
+# Editor
+.vscode/
+.idea/
+*.code-workspace
+
+# Otros
+*.log
